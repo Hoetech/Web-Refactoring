@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poi_categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="poi_categories.xsd" >
+  <poi_cat id="2">
+    <category_id>1</category_id>
+    <poi_id>3</poi_id>
+  </poi_cat>
+  <poi_cat id="3">
+    <category_id>1</category_id>
+    <poi_id>4</poi_id>
+  </poi_cat>
+  <poi_cat id="4">
+    <category_id>4</category_id>
+    <poi_id>5</poi_id>
+  </poi_cat>
+  <poi_cat id="5">
+    <category_id>4</category_id>
+    <poi_id>6</poi_id>
+  </poi_cat>
+  <poi_cat id="6">
+    <category_id>4</category_id>
+    <poi_id>7</poi_id>
+  </poi_cat>
+  <poi_cat id="7">
+    <category_id>1</category_id>
+    <poi_id>8</poi_id>
+  </poi_cat>
+  <poi_cat id="8">
+    <category_id>1</category_id>
+    <poi_id>9</poi_id>
+  </poi_cat>
+  <poi_cat id="9">
+    <category_id>1</category_id>
+    <poi_id>10</poi_id>
+  </poi_cat>
+  <poi_cat id="10">
+    <category_id>4</category_id>
+    <poi_id>11</poi_id>
+  </poi_cat>
+  <poi_cat id="11">
+    <category_id>1</category_id>
+    <poi_id>12</poi_id>
+  </poi_cat>
+  <poi_cat id="12">
+    <category_id>2</category_id>
+    <poi_id>13</poi_id>
+  </poi_cat>
+  <poi_cat id="13">
+    <category_id>4</category_id>
+    <poi_id>14</poi_id>
+  </poi_cat>
+</poi_categories>

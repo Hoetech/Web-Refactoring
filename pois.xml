@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pois xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="pois.xsd" >
+  <poi>
+    <poi_id>3</poi_id>
+    <name>Parliament</name>
+    <description>The House of Commons is an elected chamber with elections to 650 single-member constituencies held at least every five years under the first-past-the-post system. By constitutional convention, all government ministers, including prime minister, are members of the House of Commons or, less commonly, the House of Lords and are thereby accountable to the respective branches of the legislature.</description>
+    <latitude>51.499943</latitude>
+    <longitude>-0.124611</longitude>
+    <wiki_url>https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom</wiki_url>
+    <tags>History</tags>
+    <city_id>2</city_id>
+  </poi>
+  <poi>
+    <poi_id>4</poi_id>
+    <name>London Eye</name>
+    <description>The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel,and the most popular paid tourist attraction in the United Kingdom with over three million visitors annually.It has made many appearances in popular culture.</description>
+    <latitude>51.503399</latitude>
+    <longitude>-0.119519</longitude>
+    <wiki_url>https://en.wikipedia.org/wiki/London_Eye</wiki_url>
+    <tags>History</tags>
+    <city_id>2</city_id>
+  </poi>
+  <poi>
+    <poi_id>5</poi_id>
+    <name>London Bridge</name>
+    <description>Several bridges named London Bridge have spanned the River Thames between the City of London and Southwark, in central London. The current crossing, which opened to traffic in 1973, is a box girder bridge built from concrete and steel. It replaced a 19th-century stone-arched bridge, which in turn superseded a 600-year-old stone-built medieval structure.</description>
+    <latitude>51.507879</latitude>
+    <longitude>-0.087732</longitude>
+    <wiki_url>https://en.wikipedia.org/wiki/London_Bridge</wiki_url>
+    <tags>History</tags>
+    <city_id>2</city_id>
+  </poi>
+  <poi>
+    <poi_id>6</poi_id>
+    <name>Big Ben</name>
+    <description>Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, at the north end of the Palace of Westminster in London, England, and the name is frequently extended to refer also to the clock and the clock tower. </description>
+    <latitude>51.510357</latitude>
+    <longitude>-0.116773</longitude>
+    <wiki_url>https://en.wikipedia.org/wiki/Big_Ben</wiki_url>
+    <tags>History</tags>
+    <city_id>2</city_id>
+  </poi>
+  <poi>
+    <poi_id>7</poi_id>
+    <name>Great wall of China</name>
+    <description>Apart from defense, other purposes of the Great Wall have included border controls, allowing the imposition of duties on goods transported along the Silk Road, regulation or encouragement of trade and the control of immigration and emigration.[6] Furthermore, the defensive characteristics of the Great Wall were enhanced by the construction of watchtowers</description>
+    <latitude>40.431908</latitude>
+    <longitude>116.570375000000000</longitude>
+    <wiki_url>https://en.wikipedia.org/wiki/Big_Ben</wiki_url>
+            <tags>History</tags>
+            <city_id>3</city_id>
+   </poi>
+   <poi>
+            <poi_id>8</poi_id>
+            <name>798 Art Gallery</name>
+            <description>This bustling area is a hub for contemporary Chinese art with a wide array of different styles. This old factory compound has been perfectly converted to house numerous galleries</description>
+            <latitude>39.985587700000000</latitude>
+            <longitude>116.493498100000000</longitude>
+            <wiki_url>https://www.chinadiscovery.com/beijing/798-art-district.html</wiki_url>
+            <tags>Entertainment</tags>
+            <city_id>3</city_id>
+        </poi>
+        <poi>
+            <poi_id>9</poi_id>
+            <name>Behai Park</name>
+            <description>Beihai Park is one of the most famous and a very popular public park located in the central part of the city of Beijing, China. It is built in the territory of the former Royal Gardens and is situated on Qionghua Island and around the lake Qionghua. The park plays a role of a green zone surrounding the White Pagoda, which is a historic pagoda built in the Middle Ages on the island.</description>
+            <latitude>39.924442000000000</latitude>
+            <longitude>116.383057000000000</longitude>
+            <wiki_url></wiki_url>
+            <tags>Entertainment</tags>
+            <city_id>3</city_id>
+        </poi>
+        <poi>
+            <poi_id>10</poi_id>
+            <name>Tiananmen Square</name>
+            <description>Tiananmen Square or Tian&#039;anmen Square is a city square in the city center of Beijing, China, named after the eponymous Tiananmen located to its north, which separates it from the Forbidden City.</description>
+            <latitude>39.913604000000000</latitude>
+            <longitude>116.411735000000000</longitude>
+            <wiki_url>https://en.wikipedia.org/wiki/Tiananmen_Square</wiki_url>
+            <tags>History</tags>
+            <city_id>3</city_id>
+        </poi>
+        <poi>
+            <poi_id>11</poi_id>
+            <name>Convent Garden</name>
+            <description>Covent Garden is a district in London, on the eastern fringes of the West End, between St Martin&#039;s Lane and Drury Lane.[1] It is associated with the former fruit-and-vegetable market in the central square, now a popular shopping and tourist site, and with the Royal Opera House</description>
+            <latitude>51.512409000000000</latitude>
+            <longitude>-0.125146000000000</longitude>
+            <wiki_url>https://en.wikipedia.org/wiki/Covent_Garden</wiki_url>
+            <tags>History</tags>
+            <city_id>2</city_id>
+        </poi>
+        <poi>
+            <poi_id>12</poi_id>
+            <name>The National gallery</name>
+            <description>The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London, England. Founded in 1824, in Trafalgar Square since 1838, it houses a collection of over 2,300 paintings dating from the mid-13th century to 1900.</description>
+            <latitude>51.508972000000000</latitude>
+            <longitude>-0.125146000000000</longitude>
+            <wiki_url>https://en.wikipedia.org/wiki/National_Gallery</wiki_url>
+            <tags>History</tags>
+            <city_id>2</city_id>
+        </poi>
+        <poi>
+            <poi_id>13</poi_id>
+            <name>Beijing Olympic Park</name>
+            <description>Beijing Olympic Park is constructed for the 2008 Beijing Olympic Games. It covers an area of 11.59 square kilometers in the north of Beijing. During the 2008 Olympic Games, there are 10 Olympic venues such as Bird&#039;s Nest, Water Cube</description>
+            <latitude>40.011703000000000</latitude>
+            <longitude>116.391571000000000</longitude>
+            <wiki_url>https://www.chinadiscovery.com/beijing/beijing-olympic-park.html</wiki_url>
+            <tags>Sports</tags>
+            <city_id>3</city_id>
+        </poi>
+        <poi>
+            <poi_id>14</poi_id>
+            <name>Houhai Lake</name>
+            <description>Houhai  is a lake and its surrounding neighborhood in Xicheng District of central Beijing, China. Houhai is the largest of the three lakes, along with Qianhai &#039;Front Lake&#039; and Xihai &#039;Western Lake&#039;, that comprise Shichahai</description>
+            <latitude>21.028511000000000</latitude>
+            <longitude>105.804817000000000</longitude>
+            <wiki_url>https://en.wikipedia.org/wiki/Houhai</wiki_url>
+            <tags>History</tags>
+            <city_id>3</city_id>
+        </poi> 
+    </pois>
+
+     

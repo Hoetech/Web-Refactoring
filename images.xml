@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<images xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="images.xsd" >
+  <image>
+    <image_id>3</image_id>
+    <title>Chamber</title>
+    <file>http://localhost/rssfeed/uploads/houses-of-parliament-g4abfc400c_1920.jpg</file>
+    <city_id>2</city_id>
+    <poi_id>3</poi_id>
+  </image>
+  <image>
+    <image_id>4</image_id>
+    <title>Tiananmen</title>
+    <file>http://localhost/rssfeed/uploads/beijing-china-g881cd1692_640.jpg</file>
+    <city_id>3</city_id>
+    <poi_id>10</poi_id>
+  </image>
+  <image>
+    <image_id>5</image_id>
+    <title>Bamboo</title>
+    <file>http://localhost/rssfeed/uploads/bamboo-g47491af84_640.jpg</file>
+    <city_id>3</city_id>
+    <poi_id>9</poi_id>
+  </image>
+  <image>
+    <image_id>6</image_id>
+    <title>Gallery</title>
+    <file>http://localhost/rssfeed/uploads/gallery-g7712f86ca_640.jpg</file>
+    <city_id>3</city_id>
+    <poi_id>8</poi_id>
+  </image>
+  <image>
+    <image_id>7</image_id>
+    <title>london Eye</title>
+    <file>http://localhost/rssfeed/uploads/ferris-wheel-g5fcf80339_640.jpg</file>
+    <city_id>2</city_id>
+    <poi_id>4</poi_id>
+  </image>
+  <image>
+    <image_id>8</image_id>
+    <title>Big Ben</title>
+    <file>http://localhost/rssfeed/uploads/big-ben-g90d6cb368_640.jpg</file>
+    <city_id>2</city_id>
+    <poi_id>6</poi_id>
+  </image>
+  <image>
+    <image_id>9</image_id>
+    <title>Gothic Coffins</title>
+    <file>http://localhost/rssfeed/uploads/ferris-wheel-g5fcf80339_640.jpg</file>
+    <city_id>2</city_id>
+    <poi_id>3</poi_id>
+  </image>
+  <image>
+    <image_id>10</image_id>
+    <title>Houhai lake</title>
+    <file>http://localhost/rssfeed/uploads/pier-ge72d6572f_640.jpg</file>
+    <city_id>3</city_id>
+    <poi_id>14</poi_id>
+  </image>
+  <image>
+    <image_id>11</image_id>
+    <title>Olympics</title>
+    <file>http://localhost/rssfeed/uploads/stadium-g9af93d728_640.jpg</file>
+    <city_id>3</city_id>
+    <poi_id>13</poi_id>
+  </image>
+  <image>
+    <image_id>12</image_id>
+    <title>Art gallery</title>
+    <file>http://localhost/rssfeed/uploads/woman-g801745b47_640.jpg</file>
+    <city_id>2</city_id>
+    <poi_id>12</poi_id>
+  </image>
+  <image>
+    <image_id>13</image_id>
+    <title>Park</title>
+    <file>http://localhost/rssfeed/uploads/bridge-g973ca853b_640.jpg</file>
+    <city_id>2</city_id>
+    <poi_id>11</poi_id>
+  </image>
+</images>

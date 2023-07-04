@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="poi_categories">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="poi_cat" minOccurs="0" maxOccurs="unbounded">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="category_id" type="xsd:int"/>
+              <xsd:element name="poi_id" type="xsd:int"/>
+            </xsd:sequence>
+            <xsd:attribute name="id" type="xsd:int" use="required"/>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

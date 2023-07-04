@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="cities.xsd" >
+    <city>
+        <city_id>2</city_id>
+        <name>London</name>
+        <country>United Kingdom</country>
+        <description>London is the capital and largest city of England and the United Kingdom, with a population of just under 9 million. It stands on the River Thames in south-east England at the head of a 50-mile estuary down to the North Sea, and has been a major settlement for two millennia. The City of London, its ancient core and financial centre, was founded by the Romans as Londinium and retains its medieval boundaries. The City of Westminster, to the west of the City of London, has for centuries hosted the national government and parliament.</description>
+        <latitude>51.51625179708315</latitude>
+        <longitude>-0.1270045351068832</longitude>
+        <population>9177000</population>
+        <currency>Pound</currency>
+        <tags>Europe</tags>
+    </city>
+    <city>
+        <city_id>3</city_id>
+        <name>Beijing</name>
+        <country>China</country>
+        <description>Beijing, alternatively romanized as Peking, is the capital of the People's Republic of China. It is the center of power and development of the country. Beijing is the world's most populous national capital city, with over 21 million residents and the second largest in the country after Shanghai. It is located in Northern China, and is governed as a municipality under the direct administration of the State Council with 16 urban, suburban, and rural districts</description>
+        <latitude>39.93151280258059</latitude>
+        <longitude>116.3974589</longitude>
+        <population>21000000</population>
+        <currency>Yuan</currency>
+        <tags>Asia</tags>
+    </city>
+</cities>

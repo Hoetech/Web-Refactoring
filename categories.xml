@@ -1,0 +1,15 @@
+<categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://localhost/rssfeed categories.xsd" xmlns="http://localhost/rssfeed">
+  <category>
+    <category_id>1</category_id>
+    <name>Entertainment</name>
+  </category>
+  <category>
+    <category_id>2</category_id>
+    <name>Sports</name>
+  </category>
+  <category>
+    <category_id>4</category_id>
+    <name>History</name>
+  </category>
+</categories>
